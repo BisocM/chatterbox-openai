@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120" fill="none">
+  <!-- Chatterbox-OpenAI | README badge (dark) -->
+  <title>Chatterbox-OpenAI Badge</title>
+  <desc>Rounded badge with icon and wordmark for README headers. Dark background.</desc>
+  <defs>
+    <clipPath id="r">
+      <rect x="0" y="0" width="560" height="120" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect x="0" y="0" width="560" height="120" fill="#0F172A"/>
+    <g transform="translate(24,24) scale(0.25)" fill="none" stroke="#FFFFFF">
+      <rect x="28" y="28" width="200" height="140" rx="24" stroke-width="14" fill="none"/>
+      <path d="M92 168 L92 220 L132 168 Z" fill="#FFFFFF" stroke="none"/>
+      <path d="M110 86 L84 108 L110 130" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M146 86 L172 108 L146 130" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(160,38)">
+      <text x="0" y="28" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji'" font-weight="600" font-size="26" fill="#FFFFFF">
+        Chatterbox-OpenAI
+      </text>
+      <text x="0" y="54" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji'" font-weight="400" font-size="14" fill="#FFFFFF" opacity="0.75">
+        OpenAI-schema wrapper for Chatterbox
+      </text>
+    </g>
+  </g>
+</svg>

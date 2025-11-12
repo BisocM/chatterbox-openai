@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="96" viewBox="0 0 720 96" fill="none">
+  <!-- Chatterbox-OpenAI | Wordmark -->
+  <title>Chatterbox-OpenAI Wordmark</title>
+  <desc>Icon + text wordmark. Uses system sans-serif; inherits currentColor.</desc>
+  <g transform="translate(12,12) scale(0.1875)" fill="none" stroke="currentColor">
+    <rect x="28" y="28" width="200" height="140" rx="24" stroke-width="16" fill="none"/>
+    <path d="M92 168 L92 220 L132 168 Z" fill="currentColor" stroke="none"/>
+    <path d="M110 86 L84 108 L110 130" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M146 86 L172 108 L146 130" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="96" y="56" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji'" font-weight="600" font-size="34" fill="currentColor">
+    Chatterbox-OpenAI
+  </text>
+  <text x="96" y="78" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji'" font-weight="400" font-size="14" fill="currentColor" opacity="0.65">
+    OpenAI-schema wrapper for Chatterbox
+  </text>
+</svg>

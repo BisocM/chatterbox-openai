@@ -1,0 +1,43 @@
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+*.pyd
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.pyre/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build / packaging artifacts
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Logs / coverage
+*.log
+*.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# IDE / tooling
+.idea/
+.vscode/
+*.swp
+
+# Runtime data
+models/
+voice-cache/
+*.wav
+*.flac
+
+# OS junk
+.DS_Store
+Thumbs.db
